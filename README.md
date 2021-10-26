@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adamhepp
-- 👀 I’m interested in numeric simulations, mechanical modelling and engineering
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Rebel!
+- 👀 I’m interested in numeric simulations, mechanical modelling and engineering, while enjoying the development of techno music
+- 🌱 I’m currently mastering my skills in MATLAB and learning new things in python
 - 💞️ I’m looking to collaborate on building a better future for human scociety
 - 📫 How to reach me: adam.hepp@icloud.com
 
